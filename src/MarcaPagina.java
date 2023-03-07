@@ -6,7 +6,7 @@ public class MarcaPagina {
     }
 
     public void increasePage(){
-        page += 1;
+        page ++;
     }
 
     public int getPage(){
